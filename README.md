@@ -6,7 +6,7 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 Você pode entrar em contato comigo 📫
 gabriel.brito21@escola.pr.gov.br
 
-@
+
 <!--
 **estudantegabrielbrito/estudantegabrielbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
