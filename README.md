@@ -8,7 +8,7 @@ gabriel.brito21@escola.pr.gov.br
 
 ![](https://www.printables.com/model/775519-super-mario-8-bits)
 
-<!--
+<!--![](https://www.printables.com/model/775519-super-mario-8-bits)
 **estudantegabrielbrito/estudantegabrielbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
